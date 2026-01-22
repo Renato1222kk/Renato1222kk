@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**Renato1222kk/Renato1222kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Renato Oliveira
 
-Here are some ideas to get you started:
+💻 Desenvolvedor **Full Stack**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+🚀 Apaixonado por criar soluções completas, do front ao back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência no desenvolvimento de aplicações web, APIs REST e integração entre sistemas, sempre buscando código limpo, organização e boas práticas.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Angular
+
+### Back-end
+- Python (Flask)
+- Node.js
+- APIs REST
+- Autenticação e integração com APIs externas
+
+### Banco de Dados
+- SQLite
+- Noções de modelagem de dados
+
+### Ferramentas & Outros
+- Git & GitHub
+- VS Code
+- Consumo de APIs
+- Versionamento e organização de projetos
+
+---
+
+## 📌 O que você vai encontrar aqui
+- Projetos Full Stack
+- APIs para estudo e aplicações reais
+- Projetos focados em boas práticas
+- Evolução contínua como desenvolvedor
+
+---
+
+## 📚 Atualmente aprimorando
+- Arquitetura de APIs REST
+- Boas práticas de software
+- Organização e documentação de projetos
+- Desenvolvimento Full Stack na prática
+
+---
