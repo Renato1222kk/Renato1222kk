@@ -1,10 +1,9 @@
-## Hi there 👋
 
-# 👋 Olá, eu sou o Renato Oliveira
+
+## Renato Oliveira
 
 💻 Desenvolvedor **Full Stack**  
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por criar soluções completas, do front ao back-end
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  e outros cursos relacionados a tal área.
 
 Tenho experiência no desenvolvimento de aplicações web, APIs REST e integração entre sistemas, sempre buscando código limpo, organização e boas práticas.
 
