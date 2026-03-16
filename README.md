@@ -2,7 +2,6 @@
 
 ## Renato Oliveira 
 
---> Site de Portfólio: https://renato-dev.base44.app
 
 💻 Desenvolvedor **Full Stack**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  e outros cursos relacionados a tal área.
@@ -19,12 +18,13 @@ Tenho experiência no desenvolvimento de aplicações web, APIs REST e integraç
 - JavaScript (ES6+)
 - TypeScript
 - Angular
+- React
 
 ### Back-end
-- Python (Flask)
 - Node.js
 - APIs REST
 - Autenticação e integração com APIs externas
+- Laravel + Inertia
 
 ### Banco de Dados
 - SQLite
